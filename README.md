@@ -1,4 +1,4 @@
-# Town Mice versus Country Mice: Urban Bias in Job Recommender Systems
+# OKRA: an Explainable, Heterogeneous, Multi-Stakeholder Job Recommender System
 
 The notebooks used to generate the results for both datasets can be found in their respective folders. No data is provided for the proprietary dataset. For the Zhaopin dataset, the [original data](https://tianchi.aliyun.com/dataset/31623) should be stored in `/zhaopin/source_data/`. 
 
